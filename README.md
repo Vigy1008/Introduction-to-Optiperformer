@@ -35,7 +35,14 @@ The system is *instrumented* with:
    - The index is displayed in the upper right corner of the layout.  
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
+ ## Tabulation
+ <img width="1080" height="1590" alt="image" src="https://github.com/user-attachments/assets/d41c5348-fc38-4fca-a1de-ad5b90515081" />
+ ## Plot
+ <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/e3db6537-6eb0-4d2a-8dc3-d0f252135ff0" />
 
----
+ ## Result 
+Optiperformer software was successfully installed on the system and executed without any errors.
+
+
 
 
